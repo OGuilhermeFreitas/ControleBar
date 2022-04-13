@@ -1,0 +1,8 @@
+﻿Conta recebe Pedido que armazena os Produtos em um List
+Com base nos produtos no list se calcula o valor total da conta daquela mesa
+E com base no valor da conta daquela mesa se calcula a corjeta (Requisitando a % (1= 100% - 0.1= 10% - 0.01 = 1%) de corjeta ao fechar a conta)
+A variável Corjeta vai receber o incremento deste novo valor (selecionando o garçom que atendeu aquela mesa por ID)
+O valor total de vendas no dia é calculado a partir da soma de todas as contas feitas (podendo ser feito um simples incremento na variável todas ao fechar cada conta/pedido)
+
+
+Ps: Deletei os modulos Pedido e Conta pois não havia algo que valesse o tempo da avaliação, abraço e bom trabalho!
